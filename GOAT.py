@@ -1,1 +1,3 @@
-print("Feel my rythmn, Vibin'")
+#edited by vi
+print("life too short, use python") 
+

@@ -2,4 +2,4 @@
 personal_yeardream_2022
 
 description:
-What I've done during this yeardreamschool 2022
+yeardreamschool 2022에서 개인적으로 코딩관련한 공부
